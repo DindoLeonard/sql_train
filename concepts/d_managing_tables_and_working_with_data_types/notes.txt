@@ -1,0 +1,24 @@
+sql
+full_name varchar(200)
+yearly_salary int
+current_status enum (employed, self-employed, unemployed) -- mysql
+
+employment_status as ENUM()
+
+employers
+company_name varchar(200)
+company_address varchar(300)
+yearly_revenue float(5,2)
+ -- Approximation
+ -- means 5 digits in total, 2 digits after the dot
+ -- Allowed: 123.12, 12.1, Not allowed: 1234.12, 1.123
+yearly_revenue NUMERIC(5, 2)
+-- exactness is necessary
+is_hiring smallint -- 0 or 1
+is_hiring BOOLEAN -- true or false
+
+conversation
+user_name varchar(200)
+employer_name varchar(250)
+message text
+date_sent timestamp
