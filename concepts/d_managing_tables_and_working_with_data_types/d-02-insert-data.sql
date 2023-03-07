@@ -2,7 +2,7 @@
 -- users
 INSERT INTO users (yearly_salary, full_name, current_status) VALUES (25000, 'Solo Leveling', 'employed');
 
-INSERT INTO users (yearly_salary, full_name, current_status) VALUES(0, 'Naruto Uzumaki', 'unemployed')
+INSERT INTO users (yearly_salary, full_name, current_status) VALUES(0, 'Naruto Uzumaki', 'unemployed');
 
 -- employers
 INSERT INTO employers (company_name, company_address, yearly_revenue, is_hiring)
