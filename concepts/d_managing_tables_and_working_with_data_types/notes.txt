@@ -22,3 +22,9 @@ user_name varchar(200)
 employer_name varchar(250)
 message text
 date_sent timestamp
+
+postgresql
+alter users full_name not null
+and current_status not null
+mysql
+modify column fullname varchar(300) not null

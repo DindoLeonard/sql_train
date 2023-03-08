@@ -101,3 +101,15 @@ CREATE DATABASE <db_name>
 
 - It will be automatically stored using UTC timezone
 - if you will run a SELECT query, it will then be converted again to what timezone you are currently in base on your location
+
+## Null values
+
+- important because if there's a Zero and you do not want for it to be included, NULL is a good data type for it not to be included in some SQL functions like AVG()
+- non-existent data
+- NOT NULL constraint can be set into columns
+  ```sql
+  CREATE TABLE users (
+    full_name VARCHAR(255) NOT NULL,
+    salary INT -- NULL is allowed because it's not forbidden
+  )
+  ```
