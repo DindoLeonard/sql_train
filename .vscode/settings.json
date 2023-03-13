@@ -11,6 +11,16 @@
       "username": "postgres"
     },
     {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "askForPassword": true,
+      "driver": "PostgreSQL",
+      "name": "shop",
+      "database": "shop",
+      "username": "postgres"
+    },
+    {
       "mysqlOptions": {
         "authProtocol": "default"
       },
@@ -19,7 +29,7 @@
       "port": 3306,
       "driver": "MySQL",
       "name": "mysql1",
-      "database": "talently",
+      "database": "shop",
       "username": "root",
       "askForPassword": true
     }

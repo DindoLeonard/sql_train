@@ -1,0 +1,2 @@
+INSERT INTO products(name, price, description, amount_in_stock, image_path)
+VALUES('pokari', 100, 'electrolyte drink', 1, 'https://www.google.com/search?q=pocari+sweat&sxsrf=AJOqlzWNmFIk7ytraBXAEDKkHL5AP3cALg:1678608268892&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiB-9WM99X9AhXNU94KHf8KA-cQ_AUoAXoECAEQAw&biw=1920&bih=975&dpr=1#imgrc=8bJG4M6pq0jTsM');

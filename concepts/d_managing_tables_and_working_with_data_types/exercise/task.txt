@@ -1,0 +1,7 @@
+Task
+1. Create a new database for the shop
+2. Add a table for the products
+3. Choose appropriate column names + data
+4. Insert dummy data into created table
+5. Update table and add sensible constraints
+6. Update table and add a primary key
