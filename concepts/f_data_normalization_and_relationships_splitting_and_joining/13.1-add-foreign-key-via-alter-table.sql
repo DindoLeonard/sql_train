@@ -1,0 +1,2 @@
+ALTER TABLE users
+ADD FOREIGN KEY address_id REFERENCES addresses (id) ON DELETE CASCADE;

@@ -1,0 +1,50 @@
+Users
+- Full Name
+- Email
+- Address
+
+-> Users
+- ID
+- First Name
+- Last Name
+- Email
+- Address ID
+
+Addresses
+- ID
+- Street
+- House Number
+- City ID
+
+Cities
+- ID
+- Name
+
+
+--- SOME COMPANY ---
+
+account 1:1
+- id
+- employee_id referencing account
+email
+password
+
+employee 1:n
+- id
+- team_id
+- project_id
+name
+birthdate
+email
+
+projects n:n
+- id
+
+
+team  n:n
+- id
+- company_building_id referencing company_building
+name
+
+company_building 1:n
+- id
