@@ -19,7 +19,7 @@
       "port": 3306,
       "driver": "MySQL",
       "name": "mysql1",
-      "database": "relations",
+      "database": "restaurants",
       "username": "root",
       "askForPassword": true
     }
