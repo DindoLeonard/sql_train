@@ -9,7 +9,7 @@
       "port": 3306,
       "driver": "MySQL",
       "name": "mysql1",
-      "database": "gym",
+      "database": "indexes",
       "username": "root",
       "askForPassword": true
     },
@@ -20,7 +20,7 @@
       "askForPassword": true,
       "driver": "PostgreSQL",
       "name": "postgres1",
-      "database": "gym",
+      "database": "indexes",
       "username": "postgres"
     }
   ]
