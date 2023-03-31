@@ -1,0 +1,2 @@
+-- START TRANSACTION; -- mysql
+BEGIN;

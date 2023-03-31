@@ -1,0 +1,3 @@
+- What are transactions?
+- Starting transactions and understanding ROLLBACK
+- working with commit and savepoint
