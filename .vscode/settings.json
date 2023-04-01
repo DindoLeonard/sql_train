@@ -20,7 +20,7 @@
       "askForPassword": true,
       "driver": "PostgreSQL",
       "name": "postgres1",
-      "database": "indexes",
+      "database": "prisma_train",
       "username": "postgres"
     }
   ]
