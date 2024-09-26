@@ -15,3 +15,5 @@ There's a huge difference between passive learning which you can do while workin
 If you wanna be an worldclass olympic programmer, you have to put in the training, that should be obvious right? And it is not for some people.
 
 Someone saying that you can like what you do and still wanna clock out at 5, that is fine, totally cool if you enjoy working 9-5 and got some stuff done and go to movies, not objecting to that life choice but just realize
+
+--
